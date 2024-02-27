@@ -1,16 +1,28 @@
-### Hi there 👋
+### Welcome 👋
 
-<!--
-**TNAlotaibi/TNAlotaibi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- My name is Turki Alotaibi
+* I'm from Saudi Arabia 🇸🇦
++ I studying Cyber Security
 
-Here are some ideas to get you started:
+[![TNAlotaibi's GitHub stats](https://github-readme-stats.vercel.app/api?username=TNAlotaibi&show_icons=true&include_all_commits=true&hide_rank=true&text_bold=true&cache_seconds=86400&theme=radical)](https://github.com/TNAlotaibi)
+[![TNAlotaibi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tnalotaibi&layout=donut&theme=radical)](https://github.com/TNAlotaibi)
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contacts
+
+<a href="https://x.com/i_Noxz">
+  <img align="left" alt="X" height="30px" src="https://raw.githubusercontent.com/TNAlotaibi/TNAlotaibi/main/Social-Icons/X2.png" />
+</a>
+<a href="mailto:noxz12.f@gmail.com">
+  <img align="left" alt="Gmail" height="30px" src="https://raw.githubusercontent.com/TNAlotaibi/TNAlotaibi/main/Social-Icons/gmail.svg" />
+</a>
+<a href="https://www.linkedin.com/in/turki-alotaibi-768418223/">
+  <img align="left" alt="Linkedin" height="30px" src="https://raw.githubusercontent.com/TNAlotaibi/TNAlotaibi/main/Social-Icons/LinkedIn.webp" />
+</a>
+
+<br/>
+
+## Some projects
+[![TNAlotaibi's Pin Repo](https://github-readme-stats.vercel.app/api/pin/?username=tnalotaibi&repo=TNASec&show_owner=true&layout=compact&theme=radical)](https://github.com/TNAlotaibi/TNASec)
+[![TNAlotaibi's Pin Repo](https://github-readme-stats.vercel.app/api/pin/?username=tnalotaibi&repo=Social-Engineering&show_owner=true&layout=compact&theme=radical)](https://github.com/TNAlotaibi/Social-Engineering)
+
