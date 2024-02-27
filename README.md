@@ -11,7 +11,7 @@
 ## Contacts
 
 <a href="https://x.com/i_Noxz">
-  <img align="left" alt="X" height="30px" src="https://raw.githubusercontent.com/TNAlotaibi/TNAlotaibi/main/Social-Icons/X2.png" />
+  <img align="left" alt="X" height="30px" src="https://raw.githubusercontent.com/TNAlotaibi/TNAlotaibi/main/Social-Icons/X.png" />
 </a>
 <a href="mailto:noxz12.f@gmail.com">
   <img align="left" alt="Gmail" height="30px" src="https://raw.githubusercontent.com/TNAlotaibi/TNAlotaibi/main/Social-Icons/gmail.svg" />
