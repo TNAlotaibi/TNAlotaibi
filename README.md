@@ -23,6 +23,6 @@
 <br/>
 
 ## Some projects
-[![TNAlotaibi's Pin Repo](https://github-readme-stats.vercel.app/api/pin/?username=tnalotaibi&repo=TNASec&show_owner=true&layout=compact&theme=radical)](https://github.com/TNAlotaibi/TNASec)
+[![TNAlotaibi's Pin Repo](https://github-readme-stats.vercel.app/api/pin/?username=tnalotaibi&repo=TNASec-v2&show_owner=true&layout=compact&theme=radical)](https://github.com/TNAlotaibi/TNASec-v2)
 [![TNAlotaibi's Pin Repo](https://github-readme-stats.vercel.app/api/pin/?username=tnalotaibi&repo=Social-Engineering&show_owner=true&layout=compact&theme=radical)](https://github.com/TNAlotaibi/Social-Engineering)
 
