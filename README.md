@@ -2,7 +2,7 @@
 
 - My name is Turki Alotaibi
 * I'm from Saudi Arabia 🇸🇦
-+ I studying Cyber Security
++ Cyber Security graduate
 
 [![TNAlotaibi's GitHub stats](https://github-readme-stats.vercel.app/api?username=TNAlotaibi&show_icons=true&hide_rank=true&text_bold=true&cache_seconds=86400&theme=radical)](https://github.com/TNAlotaibi)
 [![TNAlotaibi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tnalotaibi&layout=donut&theme=radical)](https://github.com/TNAlotaibi)
